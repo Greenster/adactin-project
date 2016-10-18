@@ -16,6 +16,7 @@ import java.util.*;
  *
  */
 public class RequestInput {
+
 	private static Scanner scanner = new Scanner(System.in);
 
 	/**
@@ -135,6 +136,7 @@ public class RequestInput {
 				// Set the number based on what the user enters on their
 				// keyboard
 				num = Double.parseDouble(scanner.nextLine().trim());
+
 				// Break out of the infinite loop
 				break;
 			} catch (NumberFormatException e) {
@@ -164,7 +166,9 @@ public class RequestInput {
 				System.out.print(question);
 				// Set the number based on what the user enters on their
 				// keyboard
+
 				num = Integer.parseInt(scanner.nextLine().trim());
+
 				// Break out of the infinite loop
 				break;
 			} catch (NumberFormatException e) {
