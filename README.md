@@ -1,11 +1,16 @@
-#Java Project
+#Java Automation Project
+##Base Point for Java Automation Projects
 
-*Java Project which contains a simple Java Application*
+*Project for creating automation tests using Selenium WebDriver and TestNG.*
 
-* Java 7
-* Eclipse
+**Java 7**
+
 * Maven
 * Log4j
-* JUnit
+* TestNG
+* Selenium WebDriver
+* Apache POI
+* JDBC
+* MySQL
 
 [Lorne Green](https://github.com/Greenster)
