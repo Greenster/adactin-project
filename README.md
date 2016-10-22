@@ -1,11 +1,12 @@
-#Java Project
+#Java Core App Project
+##Base Point Java Applications
+*Project for creating Java Applications which do common tasks using a public static void main method and ran as a Java Application*
 
-*Java Project which contains a simple Java Application*
+**Java 7**
 
-* Java 7
-* Eclipse
 * Maven
 * Log4j
 * JUnit
+
 
 [Lorne Green](https://github.com/Greenster)
