@@ -1,7 +1,7 @@
-#Java Automation Project
-##Base Point for Java Automation Projects
+#Adactin Project
+##Adactin Hotel Automation Projects
 
-*Project for creating automation tests using Selenium WebDriver and TestNG.*
+*Adactin Project for Automating test cases for Adactin Hotel App*
 
 **Java 7**
 
